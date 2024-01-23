@@ -1,5 +1,4 @@
 # Global-Content-Delivery-with-Amazon-CloudFront
-# Global Content Delivery with Amazon CloudFront
 
 ## Overview
 
@@ -10,10 +9,6 @@ This project demonstrates the implementation of a global content delivery system
 1. [Introduction](#introduction)
 2. [Features](#features)
 3. [Setup](#setup)
-4. [Usage](#usage)
-5. [Architecture](#architecture)
-6. [Contributing](#contributing)
-7. [License](#license)
 
 ## Introduction
 
@@ -61,14 +56,3 @@ Follow these steps to set up and configure the global content delivery system:
 - Configure CloudFront to use the certificate for HTTPS.
 - Redirect HTTP traffic to HTTPS.
 
-## Usage
-
-Describe how to use and deploy the project. Include any specific instructions for developers or users.
-
-## Architecture
-
-Provide a visual representation of the architecture using diagrams or illustrations. See the [Architecture](#architecture) section for details.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
